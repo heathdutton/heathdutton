@@ -1,5 +1,5 @@
 <picture align="center">
-  <img src="https://matrix.heathdutton.workers.dev" />
+  <img src="https://matrix.heathdutton.workers.dev" height="216" />
 </picture>
 
 ## Recent Side Quests 🕴️
