@@ -1,3 +1,10 @@
 .idea/
 CL*
 .DS_Store
+# Scripts live in the scripts repo, not in the published profile
+*.sh
+*.py
+*.js
+*.ts
+*.rb
+*.pl
