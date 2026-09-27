@@ -4,6 +4,17 @@
 
 ## Recent Side Quests 🕴️
 
+<a href="articles/2026-09-fastbg.md">
+  <img src="https://ghlogo.heathdutton.workers.dev/heathdutton/FastBG?ratio=3:2" alt="FastBG" width="150" align="left">
+</a>
+
+### [Finishing Apple's Background Effect](articles/2026-09-fastbg.md)
+
+Video and live web backgrounds on any call, cut out with macOS's own matte.
+
+<br clear="left"/>
+<br/>
+
 <a href="articles/2026-09-claude-dipstick.md">
   <img src="https://ghlogo.heathdutton.workers.dev/heathdutton/claude-dipstick?ratio=3:2" alt="claude-dipstick" width="150" align="left">
 </a>
