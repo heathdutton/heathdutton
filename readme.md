@@ -4,6 +4,17 @@
 
 ## Recent Side Quests 🕴️
 
+<a href="articles/2026-10-40hz.md">
+  <img src="https://ghlogo.heathdutton.workers.dev/heathdutton/40hz?ratio=3:2" alt="40 Hz" width="150" align="left">
+</a>
+
+### [40 Hz, Take Two](articles/2026-10-40hz.md)
+
+Gamma light and sound in the browser. Only what your screen can actually show.
+
+<br clear="left"/>
+<br/>
+
 <a href="articles/2026-09-fastbg.md">
   <img src="https://ghlogo.heathdutton.workers.dev/heathdutton/FastBG?ratio=3:2" alt="FastBG" width="150" align="left">
 </a>
